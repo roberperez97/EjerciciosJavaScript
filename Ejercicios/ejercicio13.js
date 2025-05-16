@@ -19,7 +19,7 @@ function finderName(array, value) {
     const index = array.indexOf(value);
 
     if(index !== -1){
-        return {found:true, position:index};
+        return {found:true, position:index}``;
     } else{
         return {found:false};
     }
