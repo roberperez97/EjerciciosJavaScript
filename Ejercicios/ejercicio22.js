@@ -20,4 +20,4 @@ foodSchedule.forEach(food => {
     }    
 });
 
-console.log(foodSchedule);
+console.log(foodSchedule); 
